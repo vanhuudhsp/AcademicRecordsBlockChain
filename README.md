@@ -1,5 +1,4 @@
 # AcademicRecordsBlockChain
-Yeu cau: 
-# chay tren he thong ubuntu hoac subsystem ubuntu tren window voi Docker (WSL2)
+# Run in Ubuntu or subsystem ubuntu in window with Docker (WSL2)
 
 "# AcademicRecordsBlockChain" 
