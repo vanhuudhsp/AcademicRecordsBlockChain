@@ -1,0 +1,12 @@
+export const usersState$ = (state) => state.users.data;
+export const userLoginState$ = (state) => state.users.userLogin;
+export const userLoginError$ =(state) => state.users.error;
+export const openConfiguratorUserState$ = (state) => state.users.openConfigurator;
+export const studentsState$ = (state) => state.students.data;
+export const openConfiguratorStudentState$ = (state) => state.students.openConfigurator;
+export const isEditStudentState$ = (state) => state.students.isEdit;
+export const currentStudentState$ = (state) => state.students.currentStudent;
+export const coursesState$ = (state) => state.courses.data;
+export const openConfiguratorCourseState$ = (state) => state.courses.openConfigurator;
+export const isEditCourseState$ = (state) => state.courses.isEdit;
+export const currentCourseState$ = (state) => state.courses.currentCourse;
